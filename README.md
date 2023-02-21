@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xu Dong
-- 👀 I’m interested in computer systems
-- 🌱 I’m currently learning operating system principles
-- 💞️ I’m looking to collaborate on edge computing projects
+- 👀 I’m interested in AI and IoT things
+- 🌱 I’m currently building some smart home devices
+- 💞️ I’m looking to improve people's health
 - 📫 How to reach me ...
 
 <!---
