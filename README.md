@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Xu Dong
 - 👀 I’m interested in AI and IoT things
-- 🌱 I’m currently building some smart home devices
-- 💞️ I’m looking to make people's life better by bringing innovative solutions to our life
-- 📫 How to reach me ...
+- 🌱 I’m currently building some smart devices(small gears for home, workplace..)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/xu-dong-3894b1133/)
 
 <!---
 yanxuceo/yanxuceo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
